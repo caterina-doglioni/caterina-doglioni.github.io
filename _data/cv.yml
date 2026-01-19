@@ -2,96 +2,217 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dr. Caterina Doglioni
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 27th July 1984
+    - name: Pronouns
+      value: she/her
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-1509-0390">0000-0002-1509-0390</a>
+    - name: Email
+      value: caterina.doglioni@manchester.ac.uk
+    - name: Website
+      value: <a href="https://caterina-doglioni.github.io/">caterina-doglioni.github.io</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: D. Phil. Degree
+      institution: University of Oxford, Merton College, UK
+      year: 2008-2011
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Measurement of the inclusive jet cross section with the <a href='https://atlas.cern'>ATLAS</a> detector at the <a href='https://home.cern/science/accelerators/large-hadron-collider'>LHC</a>"
+        - "Supervisor: Prof. Amanda Cooper-Sarkar"
+        - PhD fully funded by external grants from UK, Italy and Sweden
+        - First-ever estimate of the uncertainty on jet energy measurements in <a href='https://atlas.cern'>ATLAS</a>
+        - Thesis nominated as outstanding contribution, published in Springer Theses series
+    - title: Master's and Bachelor's Degrees
+      institution: Università di Roma 'Sapienza', Italy
+      year: 2003-2008
       description:
-        - Description 1.
-        - Description 2.
+        - "Final marks: 110/110 Cum Laude"
+        - "Master's GPA: 29.7/30, Bachelor's GPA: 29.2/30"
+        - Full scholarship at the Collegio Universitario Lamaro Pozzani
+        - Winner of <a href='https://home.infn.it/en/'>INFN</a> scholarship for physics graduates in particle physics (ranked 1st in Italy)
 
-- title: Experience
+- title: Current Academic Positions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Chair in High Energy Physics
+      institution: University of Manchester, UK
+      year: 2021-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - "Teaching: Course lead for Object Oriented Programming in C++ and 2nd year Nuclear Physics laboratories"
+        # - Built research group of students, postdocs and Research Software Engineers
+        # - Leading contributions to European Strategy and Snowmass process
+        # - Developed "Partial Event Building" (PEB) data taking technique for ATLAS
+        - Coordinator of <a href='https://www.smarthep.org'>SMARTHEP</a> European Training Network (2021-2025)
+        - Work Package leader for <a href='https://everse.software'>EVERSE</a> project on software excellence
+        - Core member of <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> Steering Group
+        - Member of extended Executive Board of <a href='https://projectescape.eu'>ESCAPE</a> European Science Cluster
+        - Co-leading <a href='https://wlcg.web.cern.ch'>WLCG</a> Environmental Sustainability Forum
+        - Deputy lead of University of Manchester Sustainable AI Working Group
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Past Academic Positions
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Associate then Senior University Lecturer (Lektor/docent)
+      institution: Lund University, Sweden
+      year: 2015-2021 (2021-2023 at 0.2FTE)
+      description:
+        - "Teaching: Particle Physics and Reproducible research with Jupyter notebooks"
+        # - Led first deployment of "Trigger-Level Analysis" (TLA) in ATLAS
+        # - Applied TLA to dark matter searches, setting leading constraints on DM mediator models
+        - Received Sten Von Friesen Prize for advancement of measurement methods in particle physics
+        - Initiated interdisciplinary projects with local and international academic and industry partners
+        - Organiser of the initiative for Dark Matter in Europe and beyond (iDMEu)
+    - title: Senior Research and Teaching Assistant
+      institution: University of Geneva, Switzerland
+      year: 2011-2015
+      description:
+        - "Mentor: Prof. Giuseppe Iacobucci"
+      #  - First search for particles decaying into two jets at highest energy scales
+        - Co-convener of the ATLAS Jets and Dark Matter group 
+        - Co-lead of the LHC Dark Matter Forum and LHC Dark Matter Working Group
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Sten Von Friesen Prize for the advancement of measurement methods in particle physics and for strongly linking particle physics and other disciplines
 
-- title: Academic Interests
+- title: Funding
+  type: time_table
+  contents:
+    - year: 2026-2027
+      items:
+        - "NetDRIVE SUSTRAIN - Sustainable Training Initiative"
+    - year: 2024-2027
+      items:
+        - "<a href='https://everse.software'>EVERSE</a> - European Virtual Institute for Research Software Excellence (Work Package leader)"
+    - year: 2021-2026
+      items:
+        - <a href='https://cordis.europa.eu/project/id/101002463'>ERC Consolidator Grant - REALDARK</a>
+    - year: 2021-2025
+      items:
+        - "<a href='https://cordis.europa.eu/project/id/956086'>MSCA Innovative Training Network - SMARTHEP</a> (Coordinator)"
+    - year: 2019-2023
+      items:
+        - "Swedish Research Council Individual Project Grant"
+    - year: 2016-2021
+      items:
+        - <a href='https://cordis.europa.eu/project/id/679305'>ERC Starting Grant - DARKJETS</a>
+    - year: 2015-2019
+      items:
+        - "Swedish Research Council Project Grant for Young Researchers"
+
+- title: Supervision
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Postdoctoral Researchers and RSEs
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 6 postdocs and 1 Research Software Engineer (current and past)
+        # Original names commented out:
+        # - "Current: Savanna Shaw, Tobias Fitschen, Sukanya Sinha, James Smith, Michael Sparks"
+        # - "Past: William Kalderon, Jannik Geisen (now data scientists in Geneva and Berlin)"
+    - title: PhD Students
       items:
-        - Description 1.
-        - Description 2.
+        - 10 PhD students (current and past)
+        # Original names commented out:
+        # - "Current: Maximilian Amerl, Danielle Wilson-Edwards, Pratik Jawahar, Angelica Aira Ayalin, Sanjiban Sengupta, Akshat Gupta, Anna Christina Tymchyshyn"
+        # - "Past: Alexander Ekman, Eric Corrigan, Eva Hansen (now in private/public sector in Scandinavia)"
+    - title: Additional Supervision
+      items:
+        - 1 Licentiate student
+        - 29 Master's and MPhys students
+        - 18 Bachelor's students
+        - 15 summer students
 
-- title: Other Interests
-  type: list
+- title: Service and Leadership
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Community Leadership
+      items:
+        - Co-organiser of the <a href='https://idmeu.org'>Initiative for Dark Matter in Europe and beyond (iDMEu)</a>
+        - Co-leading <a href='https://eucaif.org'>EuCAIF</a> <a href='https://www.go-fair.org/fair-principles/'>FAIR</a> and sustainable AI Working Group (55 participants)
+        - Management Committee member of COST Action EPIGRAPHY
+        - Co-supervisor on <a href='https://home.cern'>CERN</a> NextGen trigger project
+    - title: Editorial and Review Duties
+      items:
+        - "Reviewer for: JHEP, EPJC, PLOS-One, Physics Reports, SciPost Physics, JINST"
+        - ERC Advanced Grants Panel PE2 member
+        - Remote reviewer for ERC Synergy Grants
+        - Panel member for U.S. Department of Energy merit-review program
+        - Evaluator for Israel Science Foundation (ISF) Merit Reviews
+    - title: Advisory Roles
+      items:
+        - Member of <a href='https://www.ukri.org'>UKRI</a> Advisory Group for Digital Research Infrastructures (ADG)
+        - International Advisory Committee for CHEP conference
+        - Elected member of Swedish Particle Physics and Astrophysics Board (2017-2021)
+
+- title: Selected Recent Activities
+  type: time_table
+  contents:
+    - title: European Strategy Symposium Panel Leader
+      year: 2025
+      description:
+        - '"Dark Matter" session panel leader, Venice, Italy (1000 participants)'
+    - title: OECD Workshop Keynote
+      year: 2025
+      description:
+        - 'Invited keynote at "Access to research software" workshop towards policy definition'
+    - title: WLCG/HSF Workshop Organiser
+      year: 2024
+      description:
+        - Organiser, speaker and session chair at DESY Hamburg (100 participants)
+    - title: Training and Outreach
+      year: 2023-present
+      description:
+        - Organisation of first UK C++ graduate-level course with <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> and Swift-HEP
+        - Organisation of CHACAL school of computing for African countries
+        - Speaker in video on dark matter at <a href='https://home.cern'>CERN</a> Science Gateway
+        - Outreach activities for students, teachers, women in STEM in Greater Manchester
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Dark Matter Searches
+      items:
+        - Searches for dark matter at the <a href='https://home.cern/science/accelerators/large-hadron-collider'>LHC</a> using the <a href='https://atlas.cern'>ATLAS</a> detector
+        - Dark matter mediator particles and dark sectors
+        - Complementarity between collider and direct detection experiments
+    - title: Real-Time Analysis in ATLAS 
+      items:
+        - Trigger-Level Analysis (TLA) techniques
+        - Partial Event Building (PEB) for new physics signatures
+        - Machine learning for real-time data selection
+    - title: Research Software and Open Science
+      items:
+        - <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> leadership
+        - Software excellence and sustainability
+        - <a href='https://www.go-fair.org/fair-principles/'>FAIR</a> data principles and reproducible analysis
+
+# Uncomment and fill in the sections below as needed:
+
+# - title: Skills
+#   type: nested_list
+#   contents:
+#     - title: Programming Languages
+#       items:
+#         - Python, C++, etc.
+#     - title: Tools & Technologies
+#       items:
+#         - Tool 1, Tool 2, etc.
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/example/project">Project Name</a>
+#       year: 2020-now
+#       description: A brief description of the project.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
