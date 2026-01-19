@@ -39,6 +39,13 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
+          description: "Chair in High Energy Physics at the University of Manchester. Research focus on dark matter searches at the LHC, real-time analysis techniques, and research software excellence.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
