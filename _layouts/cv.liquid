@@ -115,6 +115,16 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'funding' %}
+                  {% include resume/projects.liquid %}
+                {% when 'supervision' %}
+                  {% include resume/supervision.liquid %}
+                {% when 'service' %}
+                  {% include resume/service.liquid %}
+                {% when 'selected_activities' %}
+                  {% include resume/projects.liquid %}
+                {% when 'research_interests' %}
+                  {% include resume/research_interests.liquid %}
                 {% else %}
 
               {% endcase %}
