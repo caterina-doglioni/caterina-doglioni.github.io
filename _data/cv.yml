@@ -169,8 +169,8 @@
     - title: Training and Outreach
       year: 2023-present
       description:
-        - Organisation of first UK C++ graduate-level course with <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> and Swift-HEP
-        - Organisation of CHACAL school of computing for African countries
+        - Organisation of first UK C++ graduate-level course with <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> and <a href='https://www.swift.hep.ac.uk'>Swift-HEP</a>
+        - Organisation of <a href='https://indico.cern.ch/event/1264094/'>CHACAL</a> school of computing for African countries
         - Speaker in video on dark matter at <a href='https://home.cern'>CERN</a> Science Gateway
         - Outreach activities for students, teachers, women in STEM in Greater Manchester
 
@@ -181,17 +181,17 @@
       items:
         - Searches for dark matter at the <a href='https://home.cern/science/accelerators/large-hadron-collider'>LHC</a> using the <a href='https://atlas.cern'>ATLAS</a> detector
         - Dark matter mediator particles and dark sectors
-        - Complementarity between collider and direct detection experiments
+        - Complementarity between collider and other dark matter experiments
     - title: Real-Time Analysis in ATLAS 
       items:
         - Trigger-Level Analysis (TLA) techniques
         - Partial Event Building (PEB) for new physics signatures
-        - Machine learning for real-time data selection
+        - Machine learning for real-time data selection and data compression
     - title: Research Software and Open Science
       items:
-        - <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> leadership
+        - <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> for common software in high energy physics
         - Software excellence and sustainability
-        - <a href='https://www.go-fair.org/fair-principles/'>FAIR</a> data principles and reproducible analysis
+        - <a href='https://www.go-fair.org/fair-principles/'>FAIR</a> data and software principles 
 
 # Uncomment and fill in the sections below as needed:
 
