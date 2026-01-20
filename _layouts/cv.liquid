@@ -88,7 +88,13 @@ layout: default
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            <h3 class="card-title font-weight-medium">
+              {% if data[0] == 'languages_spoken_programmed' %}
+                Languages (spoken and programmed)
+              {% else %}
+                {{ data[0] | capitalize }}
+              {% endif %}
+            </h3>
             <div>
               {% case data[0] %}
                 {% when 'basics' %}
@@ -123,6 +129,8 @@ layout: default
                   {% include resume/service.liquid %}
                 {% when 'selected_activities' %}
                   {% include resume/projects.liquid %}
+                {% when 'languages_spoken_programmed' %}
+                  {% include resume/languages_spoken_programmed.liquid %}
                 {% when 'research_interests' %}
                   {% include resume/research_interests.liquid %}
                 {% else %}

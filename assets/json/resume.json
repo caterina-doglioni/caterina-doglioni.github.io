@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Caterina Doglioni",
-        "label": "Chair in High Energy Physics",
+        "label": "Professor in High Energy Physics, Department of Physics and Astronomy",
         "email": "caterina.doglioni@manchester.ac.uk",
         "phone": "",
         "website": "https://caterina-doglioni.github.io/",
-        "summary": "Professor of Particle Physics at the University of Manchester. Research focus on Dark Matter, ATLAS, and sustainable AI for fundamental physics.",
+        "summary": "Teaching and research professor of Particle Physics at the University of Manchester. Member of the ATLAS Collaboration, research focus on Dark Matter, real-time analysis, software and AI sustainability.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -210,6 +210,25 @@
             "name": "Training and Outreach",
             "startDate": "2023-present",
             "description": "Organisation of first UK C++ graduate-level course with <a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> and <a href='https://www.swift.hep.ac.uk'>Swift-HEP</a><br>Organisation of <a href='https://indico.cern.ch/event/1264094/'>CHACAL</a> school of computing for African countries<br>Speaker in video on dark matter at <a href='https://home.cern'>CERN</a> Science Gateway<br>Outreach activities for students, teachers, women in STEM in Greater Manchester"
+        }
+    ],
+    "languages_spoken_programmed": [
+        {
+            "title": "Spoken Languages",
+            "items": [
+                "Italian (Native)",
+                "English (Fluent)",
+                "French (Intermediate)",
+                "Swedish (Basic)"
+            ]
+        },
+        {
+            "title": "Programming",
+            "items": [
+                "C++ (Fluent)",
+                "Python (Intermediate)",
+                "Julia (Basic)"
+            ]
         }
     ],
     "research_interests": [
