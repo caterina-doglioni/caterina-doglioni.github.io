@@ -230,31 +230,5 @@
                 "Julia (Basic)"
             ]
         }
-    ],
-    "research_interests": [
-        {
-            "name": "Dark Matter Searches",
-            "keywords": [
-                "Searches for dark matter at the <a href='https://home.cern/science/accelerators/large-hadron-collider'>LHC</a> using the <a href='https://atlas.cern'>ATLAS</a> detector",
-                "Dark matter mediator particles and dark sectors",
-                "Complementarity between collider and other dark matter experiments"
-            ]
-        },
-        {
-            "name": "Real-Time Analysis in ATLAS",
-            "keywords": [
-                "Trigger-Level Analysis (TLA) techniques",
-                "Partial Event Building (PEB) for new physics signatures",
-                "Machine learning for real-time data selection and data compression"
-            ]
-        },
-        {
-            "name": "Research Software and Open Science",
-            "keywords": [
-                "<a href='https://hepsoftwarefoundation.org'>HEP Software Foundation</a> for common software in high energy physics",
-                "Software excellence and sustainability",
-                "<a href='https://www.go-fair.org/fair-principles/'>FAIR</a> data and software principles"
-            ]
-        }
     ]
 }
