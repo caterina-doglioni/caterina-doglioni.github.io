@@ -1,0 +1,70 @@
+- title: Teaching (University of Manchester)
+  type: time_table
+  contents:
+    - title: Course leader for the Object-Oriented Programming in C++ undergraduate course
+      institution: University of Manchester (PHYS30762)
+      year: 2022-present
+    - title: Academic lead for the 2nd year nuclear physics labs
+      institution: University of Manchester
+      year: 2021-present
+- title: Invited Lectures
+  type: time_table
+  contents:
+    - title: "Invited lecturer: Beyond the Standard Model physics"
+      institution: NExT Summer School (advanced UK graduate school)
+      year: 2021
+      description:
+        - "Invited lecturer for the online <a href='https://next-institute.ac.uk/'>NExT Summer School</a>."
+    - title: "Invited lecturer: Beyond the Standard Model physics"
+      institution: CERN/Fermilab Summer School (advanced international graduate school)
+      year: 2019
+      description:
+        - "Slides & recordings available."
+- title: Teaching (Lund University)
+  type: time_table
+  contents:
+    - title: "Course responsible: Particle Physics, Cosmology and Accelerators (FYSC14)"
+      institution: Lund University
+      year: 2015-2021
+      description:
+        - "Compulsory course for Bachelor’s Degree in Physics."
+        - "Guest teacher in courses in the engineering faculty (FAFF10)."
+        - "ATLAS Open Data lab responsible for the advanced particle physics course for Master’s students in physics (FYST14)."
+    - title: Steering group member
+      institution: COMPUTE research school (LU Science/Engineering/Medicine Faculties)
+      year: 2019-
+      description:
+        - "Responsible for alumni network. <a href='https://www.compute.lu.se/'>COMPUTE research school</a>."
+    - title: "Course responsible: Reproducible analysis using Jupyter notebooks"
+      institution: COMPUTE graduate school, Lund University
+      year: 2016-
+      description:
+        - "Graduate level course on reproducible analysis using <a href='https://jupyter.org/'>Jupyter notebooks</a>."
+    - title: "Co-teacher: Advanced Particle Physics course lab"
+      institution: Lund University
+      year: 2016-
+      description:
+        - "Using <a href='http://opendata.atlas.cern'>ATLAS Open Data</a> (described in the <a href='https://twiki.cern.ch/twiki/bin/view/AtlasPublic/LHCbPublic'>Proceedings of LHCP2018</a>)."
+        - "Master’s level course in Particle Physics."
+- title: Teaching Assistant
+  type: time_table
+  contents:
+    - title: "Teaching Assistant: Physique Générale B"
+      institution: University of Geneva
+      year: 2011-2014
+      description:
+        - "General Physics course for biologists, Bachelor’s Degree in Physics."
+    - title: "Teaching Assistant: Méthodes informatiques pour physiciens"
+      institution: University of Geneva
+      year: 2011-2014
+      description:
+        - "C++ and numerical methods course for physicists, Bachelor’s Degree in Physics."
+- title: Summer Schools
+  type: time_table
+  contents:
+    - title: Teacher and Lund University contact
+      institution: International Hadron Collider Summer School, Goettingen (HASCO)
+      year: 2012-present
+      description:
+        - "Topics taught: ROOT, Quantum Chromodynamics and jets."
+        - "Promotional video (2016)."
