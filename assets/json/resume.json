@@ -32,8 +32,8 @@
                 "Thesis: Measurement of the inclusive jet cross section with the <a href='https://atlas.cern'>ATLAS</a> detector at the <a href='https://home.cern/science/accelerators/large-hadron-collider'>LHC</a>",
                 "Supervisor: Prof. Amanda Cooper-Sarkar",
                 "PhD fully funded by external grants from UK, Italy and Sweden",
-                "First-ever estimate of the uncertainty on jet energy measurements in <a href='https://atlas.cern'>ATLAS</a>",
-                "Thesis nominated as outstanding contribution, published in Springer Theses series"
+                "<a href='https://ora.ox.ac.uk/objects/uuid:1d2872e7-9fc4-4dd4-90bd-0b4e96fbb327'>Link to the thesis</a>",
+                "Includes the early data estimate of the uncertainty on jet energy measurements in <a href='https://atlas.cern'>ATLAS</a>",
             ]
         },
         {
@@ -43,10 +43,10 @@
             "startDate": "2003",
             "endDate": "2008",
             "courses": [
-                "Final marks: 110/110 Cum Laude",
-                "Master's GPA: 29.7/30, Bachelor's GPA: 29.2/30",
-                "Full scholarship at the Collegio Universitario Lamaro Pozzani",
-                "Winner of <a href='https://home.infn.it/en/'>INFN</a> scholarship for physics graduates in particle physics (ranked 1st in Italy)"
+                //"Final marks: 110/110 Cum Laude",
+                //"Master's GPA: 29.7/30, Bachelor's GPA: 29.2/30",
+                "Full scholarship at the <a href='https://www.collegiocavalieri.it/'>Collegio Universitario Lamaro Pozzani</a>",
+                // "Winner of <a href='https://home.infn.it/en/'>INFN</a> scholarship for physics graduates in particle physics (ranked 1st in Italy)"
             ]
         }
     ],
@@ -75,9 +75,9 @@
             "summary": "(2021-2023 at 0.2FTE)",
             "highlights": [
                 "Teaching: Particle Physics and Reproducible research with Jupyter notebooks",
-                "Received Sten Von Friesen Prize for advancement of measurement methods in particle physics",
+                //"Received Sten Von Friesen Prize for advancement of measurement methods in particle physics",
                 "Initiated interdisciplinary projects with local and international academic and industry partners",
-                "Organiser of the initiative for Dark Matter in Europe and beyond (iDMEu)"
+                "Organiser of the initiative for Dark Matter in Europe and beyond (<a href='https://idmeu.org'>iDMEu</a>)"
             ]
         },
         {
@@ -95,47 +95,47 @@
     ],
     "awards": [
         {
-            "title": "Sten Von Friesen Prize for the advancement of measurement methods in particle physics and for strongly linking particle physics and other disciplines",
+            "title": "Sten Von Friesen Prize",
             "date": "2019",
-            "awarder": "",
-            "summary": ""
+            "awarder": "Royal Physiographic Society of Lund (Sweden)",
+            "summary": "For the advancement of measurement methods in particle physics and for the ambition of strongly linking particle physics and other disciplines."
         }
     ],
     "funding": [
         {
             "name": "NetDRIVE SUSTRAIN - Sustainable Training Initiative",
             "startDate": "2026-2027",
-            "description": ""
+            "description": "Scientific progress relies on advanced computing and machine learning, and the environmental impact of digital research infrastructures to support this progress is increasing. Knowledge and tools to reduce this environmental cost are needed, and current training is scattered. This project will create  lessons, tutorials, and videos for audiences that haven't been reached by existing training, along with a central, sustainable database of resources to improve practices in green computing."
         },
         {
             "name": "<a href='https://everse.software'>EVERSE</a> - European Virtual Institute for Research Software Excellence (Work Package leader)",
             "startDate": "2024-2027",
-            "description": ""
+            "description": "The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a European network of Research Software Quality and setting the foundations of a future Virtual Institute for Research Software Excellence."
         },
         {
             "name": "<a href='https://cordis.europa.eu/project/id/101002463'>ERC Consolidator Grant - REALDARK</a>",
             "startDate": "2021-2026",
-            "description": ""
+            "description": "In REALDARK, my team and I are deploying and using real-time analysis techniques in the LHC Run-3 dataset to help us detect rare processes involving dark matter in the ATLAS experiment at the Large Hadron Collider at CERN."
         },
         {
             "name": "<a href='https://cordis.europa.eu/project/id/956086'>MSCA Innovative Training Network - SMARTHEP</a> (Coordinator)",
             "startDate": "2021-2025",
-            "description": ""
+            "description": "The SMARTHEP project trained 12 Early Stage Researchers in real-time analysis for particle physics and industry, with a focus on the development of new tools and techniques for the analysis of experimental data in machine learning. For more information, see <a href=https://smarthep.org>The SMARTHEP website</a>."
         },
         {
             "name": "Swedish Research Council Individual Project Grant",
             "startDate": "2019-2023",
-            "description": ""
+            "description": "In this project, I worked with a PhD student analysing the full Run-2 data for new phenomena in final states with quarks and gluons, and estimating the uncertainties on the physics objects used for the analysis. The PhD student working with me contributed to the testing and construction of the new Inner TracKer (ITK) that will be installed in ATLAS for the upcoming data-taking period starting in 2030 (HL-LHC)."
         },
         {
             "name": "<a href='https://cordis.europa.eu/project/id/679305'>ERC Starting Grant - DARKJETS</a>",
             "startDate": "2016-2021",
-            "description": ""
+            "description": "In DARKJETS, my team and I have designed and deployed the first prototype of real-time analysis in ATLAS in Run-2, and advanced the state of the art in terms of theoretical models used to target dark matter at colliders."
         },
         {
             "name": "Swedish Research Council Project Grant for Young Researchers",
             "startDate": "2015-2019",
-            "description": ""
+            "description": "In this project, I analysed the early Run-2 data for new phenomena in final states with quarks and gluons, and worked on the real-time decision-making system of the ATLAS experiment (trigger)."
         }
     ],
     "supervision": [
