@@ -4,7 +4,7 @@ title: Physics for Toddlers
 description: Particle physics activities for babies, toddlers, and children
 img: assets/img/toddlers_placeholder.jpg
 importance: 1
-category: toddler
+category: ["toddler"]
 related_publications: false
 ---
 
