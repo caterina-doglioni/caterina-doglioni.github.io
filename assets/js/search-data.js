@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "A growing collection of outreach activities.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/outreach/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -43,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -95,7 +88,12 @@ ninja.data = [{
             },},{id: "news-welcome-to-my-new-website-more-updates-coming-soon",
           title: 'Welcome to my new website! More updates coming soon.',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-hepscape-smarthep",
+          title: 'HEPscape! @ SMARTHEP',
+          description: "A particle physics escape room for schools and the general public",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_hepscape/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
