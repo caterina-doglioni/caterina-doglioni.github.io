@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "A list to my GitHub repositories (not yet well polished!)",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "Chair in High Energy Physics at the University of Manchester. Research focus on dark matter searches at the LHC, real-time analysis techniques, and research software excellence.",
@@ -57,6 +50,20 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
+              },
+            },{id: "dropdown-people",
+              title: "people",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/people/";
+              },
+            },{id: "dropdown-repositories",
+              title: "repositories",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repositories/";
               },
             },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
