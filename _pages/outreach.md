@@ -2,7 +2,7 @@
 layout: page
 title: outreach
 permalink: /outreach/
-description: A growing collection of outreach activities.
+description: A growing collection of outreach activities, categorised by audience.
 nav: true
 nav_order: 3
 display_categories: ["toddler", "primary school", "high school", "general public"]
