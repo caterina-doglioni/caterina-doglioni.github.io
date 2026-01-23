@@ -93,6 +93,11 @@ ninja.data = [{
           description: "A particle physics escape room for schools and the general public",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_hepscape/";
+            },},{id: "projects-physics-for-toddlers",
+          title: 'Physics for Toddlers',
+          description: "Particle physics activities for babies, toddlers, and children",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_physics_toddlers/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
