@@ -1,6 +1,7 @@
-**Postdoctoral Research Associate**
+**PhD Student**
 
-**Focus and expertise:** [add info here]
+**Focus and expertise:**
+- [add info here]
 
 **Publications:**
 - [Publication Title](publications.md#publication-anchor)

@@ -2,7 +2,7 @@
 layout: page
 title: Physics for Toddlers
 description: Particle physics activities for babies, toddlers, and children
-img: assets/img/toddlers_placeholder.jpg
+img: assets/img/tuff_tray.jpeg
 importance: 1
 category: ["toddler"]
 related_publications: false
@@ -10,7 +10,7 @@ related_publications: false
 
 ## Particle Physics for Babies, Toddlers & Children
 
-With this activity, we aim to lower the barrier to entry for particle physics, showing that it's not "rocket science" and can be shared with children of all ages. This also aims to highlight role models for underrepresented categories in the field.
+With this activity, we aim to lower the barrier to entry for particle physics, showing that it's not "rocket science" and can be shared with children of all ages. This activity also aims to highlight role models for underrepresented categories in the field, such as parents and carers.
 
 ### When / where
 
@@ -43,10 +43,9 @@ With this activity, we aim to lower the barrier to entry for particle physics, s
     *   Finding "new physics" in a ball pit that contains both plastic balls and other kinds of balls representing new physics phenomena
     *   Only 2 children at a time can be in the ball pit, but it's a lot of fun!
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <!-- user to add photo here -->
-        {% include figure.liquid loading="eager" path="assets/img/toddlers_1_placeholder.jpg" title="Tuff Tray Activity" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tuff_tray_ball_pit.jpg" title="Tuff Tray Activity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -55,10 +54,9 @@ With this activity, we aim to lower the barrier to entry for particle physics, s
 *   **Collaborative Game**: Multiple stations for collaborative play.
 *   **Coloring**: Black and white prints for coloring to take home.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <!-- user to add photo here -->
-        {% include figure.liquid loading="eager" path="assets/img/toddlers_2_placeholder.jpg" title="Higgs Boson with Megablocks" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/megablocks.jpg" title="Higgs Boson with Megablocks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -66,9 +64,8 @@ With this activity, we aim to lower the barrier to entry for particle physics, s
 *   **Books Corner**: Featuring books like "Particle Physics for Babies" (written by Louie Corpe) and "Neural Networks for Babies" to serve as conversation points.
 *   **Photo Corner**: "Take a picture with the LHC" backdrop.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <!-- user to add photo here -->
-        {% include figure.liquid loading="eager" path="assets/img/toddlers_3_placeholder.jpg" title="Books and Photo Corner" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/physics_for_babies.png" title="Books and Photo Corner" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

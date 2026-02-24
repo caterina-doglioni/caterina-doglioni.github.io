@@ -2,7 +2,7 @@
 layout: page
 title: HEPscape! @ SMARTHEP
 description: A particle physics escape room for schools and the general public
-img: assets/img/hepscape_placeholder.jpg
+img: assets/img/composite_outreach_hackathon.png
 importance: 1
 category: ["high school", "general public"]
 related_publications: false
@@ -20,11 +20,11 @@ The translated material consisting of scripts, video direction and presentation 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <!-- user to add photo here -->
-        {% include figure.liquid loading="eager" path="assets/img/hepscape_placeholder_1.jpg" title="ESRs at Outreach Hackathon" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/composite_outreach_hackathon.png" title="ESRs at Outreach Hackathon" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <!-- user to add photo here -->
-        {% include figure.liquid loading="eager" path="assets/img/hepscape_placeholder_2.jpg" title="HEPscape! Activity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dortmund_outreach.png" title="HEPscape! Activity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
