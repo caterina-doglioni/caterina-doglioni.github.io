@@ -105,6 +105,16 @@ ninja.data = [{
           description: "Particle physics activities for babies, toddlers, and children",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_physics_toddlers/";
+            },},{id: "projects-particle-physics-masterclass",
+          title: 'Particle Physics Masterclass',
+          description: "Hands-on particle physics activities for primary and high school students",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_masterclass/";
+            },},{id: "projects-particle-physics-and-space",
+          title: 'Particle Physics and Space',
+          description: "Exploring the connections between particle physics and space for primary school students",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_physics_space/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
