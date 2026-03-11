@@ -1,8 +1,7 @@
 **PhD Student**
 
-**Focus and expertise:** [add info here]
+**Focus and expertise:** Dark matter mediator searches; jet calibration for real-time analysis. Max leads the search for dark matter mediators decaying into two jets produced in association with a photon (contact person). He also devised and implemented the jet calibration and jet energy scale uncertainty strategies for jets reconstructed in real-time in the ATLAS trigger system, in collaboration with Tobias Fitschen.
 
-**Publications:**
-- [Publication Title](publications.md#publication-anchor)
-
-<a href="https://www.linkedin.com/in/[username]" target="_blank"><i class="fab fa-linkedin"></i></a>
+**Key contributions:**
+- Contact person for the dijet + photon dark matter mediator search
+- Jet calibration and energy scale uncertainty strategy for real-time reconstructed jets (with Fitschen)
