@@ -16,16 +16,24 @@ With this activity, we aim to lower the barrier to entry for particle physics, s
 
 ### When / where
 
-#### Upcoming editions
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <h4>Upcoming editions</h4>
+        <ul>
+            <li><em>Italian Kids</em> event for Italian-speaking children, 28/03/2025 (<a href="https://www.eventpod.net/e/i-grandi-segreti-delluniverso-6wVot">Sign-up link and more information at this link</a>)</li>
+            <li>Universally Manchester festival, 13/06/2025 (TBC, going through the selection process) (<a href="https://universallymanchester.com/">More information from the festival website</a>)</li>
+        </ul>
 
-   * _Italian Kids_ event for Italian-speaking children, 28/03/2025 ([Sign-up link and more information at](https://www.eventpod.net/e/i-grandi-segreti-delluniverso-6wVot)) 
-   * Universally Manchester festival, 13/06/2025 (TBC, going through the selection process) ([More information from the festival website](https://universallymanchester.com/))
-
-
-#### Past editions
-
-   * FunLab at the Trafford Center, 7-8/3/2026 ([More Information from the University website](https://www.staffnet.manchester.ac.uk/news/display/?id=33633), [More information from the HubLab website](https://www.hublab.manchester.ac.uk/funlab/))
-   * Universally Manchester, Community festival, 6-9/6/2024 ([More information from the university website](https://www.manchester.ac.uk/about/news/universally-manchester-festival-announced/))
+        <h4>Past editions</h4>
+        <ul>
+            <li>FunLab at the Trafford Center, 7-8/3/2026 (<a href="https://www.staffnet.manchester.ac.uk/news/display/?id=33633">More Information from the University website</a>, <a href="https://www.hublab.manchester.ac.uk/funlab/">More information from the HubLab website</a>)</li>
+            <li>Universally Manchester, Community festival, 6-9/6/2024 (<a href="https://www.manchester.ac.uk/about/news/universally-manchester-festival-announced/">More information from the university website</a>)</li>
+        </ul>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/outreach/italian-kids-2026/Italian_kids.png" title="Italian Kids Activity" class="img-fluid rounded z-depth-1" max-width="50%" %}
+    </div>
+</div>
 
 
 ### General Ideas & Logistics
@@ -49,16 +57,17 @@ With this activity, we aim to lower the barrier to entry for particle physics, s
     *   Only 2 children at a time can be in the ball pit, but it's a lot of fun!
 
 [![Tuff Tray Activity](/assets/img/outreach/universally-manchester-2024/tuff_tray_ball_pit-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/universally-manchester-2024/tuff_tray_ball_pit.jpg){: data-pswp-width="2862" data-pswp-height="2112"}
-[![Tuff Tray Activity](/assets/img/outreach/universally-manchester-2024/tuff_tray_ball_pit-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/universally-manchester-2024/tuff_tray_ball_pit.jpg){: data-pswp-width="2862" data-pswp-height="2112"}
+[![Tuff Tray Activity](/assets/img/outreach/funlab-trafford/trafford-ballpit-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/funlab-trafford/trafford-ballpit.jpg){: data-pswp-width="2862" data-pswp-height="2112"}
 {: .pswp-gallery #tuff-tray-gallery }
 
 #### Children (3.5+ years): Discover the Higgs Boson
 *   **Megablocks Construction**: Reproduce the Higgs boson discovery plot using Duplo or Megablocks.
-*   **Collaborative Game**: Multiple stations for collaborative play.
+*   **Collaborative Games**: Multiple stations for collaborative play.
 *   **Coloring**: Black and white prints for coloring to take home.
 
 [![Higgs Boson with Megablocks](/assets/img/outreach/universally-manchester-2024/megablocks-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/universally-manchester-2024/megablocks.jpg){: data-pswp-width="1256" data-pswp-height="1088"}
-[![Higgs Boson with Megablocks](/assets/img/outreach/universally-manchester-2024/megablocks-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/universally-manchester-2024/megablocks.jpg){: data-pswp-width="1256" data-pswp-height="1088"}
+[![Higgs Boson with Megablocks](/assets/img/outreach/funlab-trafford/trafford-blocks-1-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/funlab-trafford/trafford-blocks-1.jpg){: data-pswp-width="1256" data-pswp-height="1088"}
+[![Higgs Boson with Megablocks](/assets/img/outreach/funlab-trafford/trafford-blocks-800.webp){: .img-fluid .rounded .z-depth-1 style="height: 200px; margin: 4px; object-fit: cover;"}](/assets/img/outreach/funlab-trafford/trafford-blocks.jpg){: data-pswp-width="1256" data-pswp-height="1088"}
 {: .pswp-gallery #megablocks-gallery }
 
 ### Books & Photo Corner
